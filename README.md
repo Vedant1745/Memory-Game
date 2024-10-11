@@ -16,4 +16,4 @@ Welcome to the Memory Game! This project is a simple yet engaging game built usi
 ## CSS: For styling the game and making it visually appealing
 ### JavaScript: For game logic and interactivity
 
-You can check out this website at : 
+You can check out this website at : https://vedant1745.github.io/Memory-Game/
